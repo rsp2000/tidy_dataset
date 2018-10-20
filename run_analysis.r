@@ -27,4 +27,4 @@ X_merge_stdmean <- subset (X_merge, select=c(listcolnames))
 # 5) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 tidy_dataset <- colMeans(X_merge_stdmean, na.rm=TRUE)
 # Write CSV in R
-write.csv(tidy_dataset, file = "tidy_dataset.csv")
+write.table(tidy_dataset, file = "tidy_dataset.txt", row.name=FALSE)
