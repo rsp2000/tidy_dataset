@@ -10,10 +10,6 @@ The dataset includes the following files:
 
 - 'week4_tidydata.txt' -  average of each variable for each activity and each subject
 
-- 'activ_train.csv' - activities train list with descriptive activity names
-
-- 'activ_test.csv' - activities test list with descriptive activity names
-
 - 'CodeBook.md' - detailed descripton of the dataset generated
 
 Execution
