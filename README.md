@@ -1,7 +1,5 @@
-==================================================================
-Averages of
-Human Activity Recognition Using Smartphones Dataset
-==================================================================
+Averages of Human Activity Recognition Using Smartphones Dataset
+================================================================
 
 The dataset includes the following files:
 =========================================
